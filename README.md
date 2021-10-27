@@ -13,6 +13,8 @@ So out of the 10 questions, 5 questions will be chosen randomly and then given t
 
 After answering all of the questions, the number of correct answer and the percentage will be given with different kind of messages based on the percentage.
 
+All of the given questions will shown again with the correct answer.
+
 
 ## How to Install
 
